@@ -1,0 +1,12 @@
+.DS_Store
+*.sql
+conf
+logs
+*.code-workspace
+wp-config*
+app/public/wp-content/mu-plugins
+app/public/wp-content/plugins
+app/public/wp-content/updraft
+app/public/wp-content/upgrade-temp-backup
+app/public/wp-content/uploads
+app/public/wp-content/themes/twenty*
